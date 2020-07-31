@@ -9,7 +9,7 @@
     psycopg
     
     ```
-2. Database:
+2. Add your database setup to settings.py file::
 
     ``` setup 
     
